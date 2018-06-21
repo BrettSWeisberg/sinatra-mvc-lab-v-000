@@ -1,13 +1,16 @@
 require 'pry'
 class PigLatinizer
 
-  def latinize(entry)
+  def sentence_filter(user_phrase)
+  end
+
+  def latinize(word)
     binding.pry
-    if entry[0] = [aeiou]
+    if word[0] = [^aeiou]
+
     end
   end
 
-  def sentence_filter
-  end
+
 
 end
