@@ -1,6 +1,6 @@
 class PigLatinizer
 
-  def latinize(sentence)
+  def latinize(params[:entry])
 
   end
 
