@@ -5,9 +5,8 @@ class PigLatinizer
   end
 
   def latinize(word)
-    binding.pry
-    if word[0] = [^aeiou]
-
+    if word[0]
+    else
     end
   end
 
