@@ -10,7 +10,7 @@ class PigLatinizer
     if word[0]
     else
     end
-    end
+  end.join('')
   end
 
 
